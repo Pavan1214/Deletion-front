@@ -1,4 +1,4 @@
-const backendURL = "https://uploader-backend-1.onrender.com";
+const backendURL = "https://mp3-deletion.onrender.com";
 let allSongs = [];
 
 async function loadSongs() {
